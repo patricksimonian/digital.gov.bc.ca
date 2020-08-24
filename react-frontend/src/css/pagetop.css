@@ -1,0 +1,120 @@
+.pageTop {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-bottom: 50px;
+    padding-bottom: 120px;
+    padding-top: 260px;
+    width: 100%;
+}
+
+.pageTitle {
+    font-size: 37px;
+    font-weight: bold;
+    line-height: 37px;
+    margin-bottom: 10px;
+    position: relative;
+    text-align: center;
+}
+
+.pageTextBanner {
+    background-color: rgba(0, 51, 102, 0.7);
+    padding: 25px;
+    width: 100%;
+}
+
+.pageText {
+    margin: auto;
+    text-align: center;
+    width: 85%;
+}
+
+.pageText p {
+    color: white;
+    font-weight: bold;
+}
+
+.pageDescription p {
+    font-size: 22px;
+    position: relative;
+}
+
+.pageDescription p {
+    font-size: 22px;
+    position: relative;
+}
+
+.plain {
+    background-color: #f2f2f2;
+}
+
+.transparent {
+    margin-top: 70px;
+}
+
+.plain p {
+    color: #313132;
+}
+
+.descriptionShrink {
+    font-size: 22px;
+}
+
+@media only screen and (max-width: 800px) {
+    .pageHeader {
+        height: 530px;
+    }
+
+    .titleShrink {
+        font-size: 16px;
+    }
+
+    .pageText {
+        padding-top: 100px;
+        width: 330px;
+    }
+
+    .pageTop {
+        height: 400px;
+        padding-top: 200px;
+    }
+
+    .descriptionShrink {
+        font-size: 12px;
+    }
+
+    
+}
+
+@media only screen and (max-width: 800px) {
+    
+    .pageText {
+        margin-left: 8%;
+        padding-top: 80px;
+        width: 84%;
+    }
+
+    .pageDescription {
+        font-size: 10pt;
+        text-align: justify;
+    }
+    
+    .pageTop {
+        padding-bottom: 40px;
+        padding-top: 40px;
+    }
+
+    .pageDescription p {
+        font-size: 16px;
+        text-align: center;
+        width: 100%;
+    }
+
+    .pageTextBanner {
+        padding: 10px;
+    }
+
+    .pageTitle {
+        margin-top: -30px;
+    }
+}
