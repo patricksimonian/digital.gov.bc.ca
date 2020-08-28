@@ -8,7 +8,7 @@ Learn how the Government of British Columbia is building teams and using modern 
 ## What is happening here?
 We are building the next version of [Digital.gov.bc.ca](https://digital.gov.bc.ca/) based on user research and in alignment with directives to support the BC Public Service to improve service delivery using digital methods and tools.
 
-The Exchange Lab Operations team has been deployed to build this website and associated resources, in collaboration with partners across the public service. We are taking an Agile Scrum product delivery approach.
+The Exchange Lab Operations team has been deployed to build this website and associated resources, in collaboration with partners across the public service. We are taking an Agile Scrum product delivery approach.asdfasdf
 
 You can see our backlog in the open by clicking on the issues tab above.
 
